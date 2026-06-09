@@ -1,0 +1,16 @@
+{
+  "name": "chat-server",
+  "version": "1.0.0",
+  "description": "Serveur de chat simple",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^1^.18.2",
+    "socket.io": "^1^.7.2"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
